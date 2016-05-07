@@ -1,8 +1,8 @@
 # Intent或持久化存储处理复杂对象
 
-在进程或页面通信时需要使用Intent传递数据; 在对象持久化时需要存储数据. 对于复杂的对象, 进行序列化才可传递或存储, 可以使用``Java的Serializable``方式或``Android的Parcelable``方式. 本文介绍**Serializable**和**Parcelable**的使用方式, 含有Demo.
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing/
 
-本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-process-data)
+在进程或页面通信时需要使用Intent传递数据; 在对象持久化时需要存储数据. 对于复杂的对象, 进行序列化才可传递或存储, 可以使用``Java的Serializable``方式或``Android的Parcelable``方式. 本文介绍**Serializable**和**Parcelable**的使用方式, 含有Demo.
 
 ---
 
